@@ -1,4 +1,4 @@
-### Hi, I'm Matthew Kaingu Saro 👋
+### Hi, I'm Matthew Kaingu Saro 
 
 **Electrical & Electronic Engineering | Embedded Systems & Fault-Tolerant Industrial IoT**  
 *Masinde Muliro University of Science and Technology (MMUST) • Kenya*
@@ -7,7 +7,7 @@ I design resilient Cyber-Physical Systems (CPS) that survive real-world electric
 
 ---
 
-### 🚀 Featured Engineering Project
+### Featured Engineering Project
 
 #### [Smart Zero Grazing Telemetry & Automation Architecture](https://github.com/bambanya/Smart-Zero-Grazing-Architecture)
 An autonomous, fault-tolerant IoT system engineered for precision dairy farming (~$60 USD prototype BOM). Built to eliminate dry-running pump failures, inductive kickback damage, and GSM brownouts on unstable rural power grids.
@@ -19,7 +19,7 @@ An autonomous, fault-tolerant IoT system engineered for precision dairy farming 
 
 ---
 
-### 🛠️ Core Technical Stack
+###  Core Technical Stack
 
 * **Microcontrollers & Edge Compute:** ESP32 (FreeRTOS, Wi-Fi/HTTPS), Arduino, C / C++
 * **Protocols & Buses:** SPI, I2C, UART, 1-Wire, PWM, GSM/GPRS (`AT` Commands)
@@ -31,5 +31,5 @@ An autonomous, fault-tolerant IoT system engineered for precision dairy farming 
 ### 📫 Connect & Collaborate
 
 * **Project Repository:** [Smart-Zero-Grazing-Architecture](https://github.com/bambanya/Smart-Zero-Grazing-Architecture)
-* **Email:** 'matthewsaro7@gmail.com`
+* **Email:** matthewsaro7@gmail.com
 * **Location:** Kenya
