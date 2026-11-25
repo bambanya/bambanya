@@ -9,7 +9,7 @@ I design resilient Cyber-Physical Systems (CPS) that survive real-world electric
 
 ### 🚀 Featured Engineering Project
 
-#### [Smart Zero Grazing Telemetry & Automation Architecture](https://github.com/YOUR_USERNAME/Smart-Zero-Grazing-Architecture)
+#### [Smart Zero Grazing Telemetry & Automation Architecture](https://github.com/bambanya/Smart-Zero-Grazing-Architecture)
 An autonomous, fault-tolerant IoT system engineered for precision dairy farming (~$60 USD prototype BOM). Built to eliminate dry-running pump failures, inductive kickback damage, and GSM brownouts on unstable rural power grids.
 
 * **Electromechanical Protection:** Active-HIGH TIP120 Darlington firewall + opto-isolated relay + 1N4007 flyback diode protecting control logic from 12V inductive load spikes.
